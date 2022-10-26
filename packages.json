@@ -2,5 +2,9 @@
     {
         "package": "moultmcmc",
         "url": "https://github.com/pboesu/moultmcmc"
+    },
+    {
+        "package": "moultmcmcExtra",
+        "url": "https://github.com/pboesu/moultmcmcExtra"
     }
 ]
