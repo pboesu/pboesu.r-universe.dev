@@ -6,5 +6,9 @@
     {
         "package": "moultmcmcExtra",
         "url": "https://github.com/pboesu/moultmcmcExtra"
+    },
+    {
+        "package": "ewp",
+        "url": "https://github.com/pboesu/ewp"
     }
 ]
